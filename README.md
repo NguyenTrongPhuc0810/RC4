@@ -1,5 +1,4 @@
 RC4
-Repository rc4-repo triển khai thuật toán mã hóa dòng RC4, một thuật toán mã hóa đối xứng. Dự án bao gồm hai chương trình độc lập:
 
 - encrypt_project: Mã hóa văn bản gốc thành văn bản mã (dạng hex).
 - decrypt_project: Giải mã văn bản mã (hex) thành văn bản gốc.
